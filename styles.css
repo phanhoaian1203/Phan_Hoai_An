@@ -1,0 +1,56 @@
+body {
+    margin: 30px;
+}
+
+.cv-document {
+	box-sizing: border-box;
+	border: none;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	vertical-align: baseline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: arial, sans-serif, tahoma;
+	font-size: 10pt;
+}
+
+.cv-page {
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    width: 900px;
+    min-height: 900px;
+    margin: 0 auto;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    background-color: rgb(63, 199, 85);
+    position: relative;
+
+    padding: 40px
+}
+.section-title{
+    width: 210px;
+    height: 20px;
+    border-radius: 10px;
+    border-color: rgb(200, 234, 67);
+    padding: 10px;
+    border-style: solid ;
+    border-width: 3px;
+    background-color: rgb(119, 182, 215);
+}
+#avt{
+    border-style: solid;
+    border-width: 8px;
+    border-color: rgb(198, 238, 19);
+}
+.space1{
+    padding-right: 70px;
+}
+.space2{
+    padding-right: 52px;
+}
